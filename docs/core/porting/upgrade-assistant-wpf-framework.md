@@ -5,7 +5,7 @@ author: adegeo
 ms.date: 01/25/2022
 ---
 # Upgrade a WPF App to .NET 6 with the .NET Upgrade Assistant
-
+h
 The [.NET Upgrade Assistant](upgrade-assistant-overview.md) is a command-line tool that can assist with upgrading .NET Framework WPF apps to .NET 6. This article provides:
 
 - A demonstration of how to run the tool against a .NET Framework WPF app
